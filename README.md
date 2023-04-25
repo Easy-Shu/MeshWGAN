@@ -8,7 +8,8 @@ If you use this code for your research, please cite our paper.
 @article{Jie2023Mesh,
   title={{MeshWGAN}: Mesh-to-Mesh Wasserstein GAN with Multi-Task Gradient Penalty for {3D} Facial Geometric Age Transformation},
   author={Jie Zhang and Kangneng Zhou and Yan Luximon and Tongyee Lee and Ping Li},
-  year={2023}
+  year={2023},
+  pages={1--14}
 }
 ```
 ## Contacts
