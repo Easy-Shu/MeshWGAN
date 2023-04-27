@@ -4,7 +4,7 @@ As the metaverse rapidly develops, 3D facial age transformation will attract inc
 
 
 ## Acknowledgement
-Previous works on 3D mesh network: [SpiralNet++](https://github.com/sw-gong/spiralnet_plus), 2D face aging network [LATS](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis), 3D facial details prediction newtwork [FaceScape](https://github.com/zhuhao-nju/facescape), 3D face reconstruction [Deep3DFace](https://github.com/sicxu/Deep3DFaceRecon_pytorch). 
+Previous works on 3D mesh network: [SpiralNet++](https://github.com/sw-gong/spiralnet_plus), 2D face aging network [LATS](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis) and [SAM] (https://github.com/yuval-alaluf/SAM), 3D facial details prediction newtwork [FaceScape](https://github.com/zhuhao-nju/facescape), 3D face reconstruction [Deep3DFace](https://github.com/sicxu/Deep3DFaceRecon_pytorch). 
 
 ## Citation
 If you use this code for your research, please cite our paper.
